@@ -16,6 +16,16 @@
   weight = 10
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 11
+
+[[main]]
+  name = "BoxBoxBox"
+  pageRef = "boxboxbox"
+  weight = 12
+
+[[main]]
   name = "Xpath"
   url = "/xpath"
   weight = 100
