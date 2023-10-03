@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 baseURL = 'https://help-motivate.me/'
-title = 'TopSwagCode Development'
+title = 'Help Motivate Me'
 theme = 'blowfish'
 defaultContentLanguage = "en"
 
