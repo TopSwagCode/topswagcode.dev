@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-baseURL = 'https://topswagcode.dev/'
+baseURL = 'https://help-motivate.me/'
 title = 'TopSwagCode Development'
 theme = 'blowfish'
 defaultContentLanguage = "en"
