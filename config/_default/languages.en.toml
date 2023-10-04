@@ -16,7 +16,7 @@ title = "TopSwagCode"
 [author]
   name = "Joshua Ryder"
   image = "img/me.jpg"
-  headline = "Hi and welcome. This is a experiment for me to share about myself. My process to improve as father, partner, person. This is way out of my comfort zone opening up to the world about my flaws."
+  headline = "Hi and welcome. This is going to be my development platform and the place where I share content. Being it Blog posts, github repositories, youtube clips, etc."
 #  bio = "A little bit about you"
   links = [
     { email = "mailto:josh@topswagcode.com" },
